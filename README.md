@@ -1,16 +1,13 @@
-## Hi there 👋
+### yo, i'm soloacez35 👋
 
-<!--
-**soloacez35/soloacez35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DevOps enthusiast automating infrastructure and CI/CD pipelines. Based in Australia.
 
-Here are some ideas to get you started:
+- usually building small tools nobody asked for
+- rewrites it once, then leaves it alone
+- happy to pair on open-source stuff
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="99%" src="https://github-profile-trophy.vercel.app/?username=soloacez35&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies" />
+
+<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=soloacez35&hide_border=true&theme=react" alt="Contribution graph" />
+
+<img src="https://img.shields.io/badge/Linux-f778ba?style=for-the-badge&logoColor=white" alt="Linux" /> <img src="https://img.shields.io/badge/Kubernetes-f778ba?style=for-the-badge&logoColor=white" alt="Kubernetes" /> <img src="https://img.shields.io/badge/Terraform-f778ba?style=for-the-badge&logoColor=white" alt="Terraform" />
